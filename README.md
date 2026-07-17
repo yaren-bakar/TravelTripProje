@@ -1,4 +1,7 @@
-# TravelTripProje
+# 🌍 TravelTripProje
+
+TravelTripProje, ASP.NET MVC kullanılarak geliştirilmiş bir seyahat blogu uygulamasıdır. Kullanıcılar blog yazılarını görüntüleyebilir, yönetici paneli üzerinden içerikleri yönetebilir.
+
 ## 📷 Proje Görselleri
 
 ### Ana Sayfa
