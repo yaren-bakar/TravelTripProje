@@ -3,15 +3,20 @@
 
 ### Ana Sayfa
 
-![Ana Sayfa](images/Home.png)
+![Ana Sayfa](TravelTripProje/images/Home.png)
+
 
 ### Blog Sayfası
 
-![Blog](images/Blog.png)
+
+
+![Blog](TravelTripProje/images/Blog.png)
+
 
 ### Admin Paneli
 
-![Admin](images/Admin.png)
+
+![Admin](TravelTripProje/images/Admin.png)
 
 
 ## ⚙️ Kurulum
