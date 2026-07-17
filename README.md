@@ -4,22 +4,14 @@ TravelTripProje, ASP.NET MVC kullanılarak geliştirilmiş bir seyahat blogu uyg
 
 ## 📷 Proje Görselleri
 
-### Ana Sayfa
+<h3>Ana Sayfa</h3>
+<img src="TravelTripProje/images/Home.png" width="700">
 
-![Ana Sayfa](TravelTripProje/images/Home.png)
+<h3>Blog Sayfası</h3>
+<img src="TravelTripProje/images/Blog.png" width="700">
 
-
-### Blog Sayfası
-
-
-
-![Blog](TravelTripProje/images/Blog.png)
-
-
-### Admin Paneli
-
-
-![Admin](TravelTripProje/images/Admin.png)
+<h3>Admin Paneli</h3>
+<img src="TravelTripProje/images/Admin.png" width="700">
 
 
 ## ⚙️ Kurulum
